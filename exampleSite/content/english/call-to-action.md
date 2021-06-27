@@ -4,7 +4,7 @@ bg_image : "images/backgrounds/Night Sky.jpg"
 button:
   enable : true
   label : "SAY HELLO!"
-  link : "about"
+  link : "#contact"
 
 
 # custom style
