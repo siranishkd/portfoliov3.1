@@ -97,7 +97,7 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
+copyright = "Copyright &copy; 2021 a hugo theme by [somrat](https://somrat.netlify.com)"
 
 
 ################# english navigation ##################
@@ -115,7 +115,7 @@ url = "about"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "Tools"
+name = "Tools Used"
 pre = "#"
 url = "tools"
 weight = 3
@@ -134,7 +134,7 @@ weight = 5
 [[Languages.en.menu.main]]
 name = "Testimonials"
 pre = "#"
-url = "testimonial"
+url = "testimonials"
 weight = 6
 
 [[Languages.en.menu.main]]
