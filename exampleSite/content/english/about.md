@@ -23,17 +23,15 @@ experience:
       duration : "Jul 2021-Dec 2021"
       content : "<br><br>"
       
-    # experience item loop
-    - name : "Graphic Designer"
-      company : "Fiverr.com"
-      duration : "2015-2018"
-      content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."
+    - name : "Data Analyst Intern (Corporate Real Estate Strategy)"
+      company : "Development Bank of Singapore (DBS)<br>"
+      duration : "May 2021-Jul 2021"
+      content : "Worked with the Corporate Real Estate Strategy and Administration (CRESA) team to assist the Bank with their space management data. Used analytics tools, Excel and Tableau to produce insights, develop and test hypothesis and communicate recommendations."
       
-    # experience item loop
-    - name : "Database Manager"
-      company : "Polytechnic"
-      duration : "2014-2018"
-      content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
+    - name : "Data Analyst Intern"
+      company : "Novelship<br>"
+      duration : "Feb 2021-May 2021"
+      content : "Worked at an active eCommerce startup as the key data analyst collaborating cross-functionally across various teams - Product, Finance, Marketing and Business Development. Used Tableau and SQL to build and maintain automated dashboards for the company. Performed cohort analysis and analysed user behaviour and patterns to generate insights."
 
 ############################### Skill #################################
 skill:
