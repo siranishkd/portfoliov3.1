@@ -884,12 +884,12 @@ input:checked+label span:last-child {
 .download-cv:hover,
 .download-cv:focus {
   text-decoration: none;
-  color: #4d4d4d;
+  color: #05156b;
 }
 
 .about-me-images img {
   width: 100%;
-  -webkit-filter: grayscale(100%);
+  /* -webkit-filter: grayscale(100%);
   -moz-filter: grayscale(100%);
   -ms-filter: grayscale(100%);
   -o-filter: grayscale(100%);
@@ -907,7 +907,7 @@ input:checked+label span:last-child {
   -moz-filter: grayscale(0%);
   -ms-filter: grayscale(0%);
   -o-filter: grayscale(0%);
-  filter: grayscale(0%);
+  filter: grayscale(0%); */
 }
 
 .about-me .hvr-icon-hang:before {
