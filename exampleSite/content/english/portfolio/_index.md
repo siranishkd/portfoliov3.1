@@ -9,5 +9,3 @@ custom_class: ""
 custom_attributes: "" 
 custom_css: ""
 ---
-
-Testing essay here
