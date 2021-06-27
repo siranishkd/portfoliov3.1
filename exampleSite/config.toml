@@ -67,8 +67,8 @@ logo_light = "images/logo.png"
 logo_dark = "images/logo-dark.png"
 logo_width = "150px"
 # Meta data
-description = "This is meta description"
-author = "somrat"
+description = "Portfolio Website"
+author = "Anish Dobariyapatel"
 
 # Preloader
 [params.preloader]
@@ -85,16 +85,16 @@ icon = "fab fa-twitter"
 link = "https://twitter.com/somratpro"
 
 [[params.social]]
-icon = "fab fa-instagram"
-link = "https://www.instagram.com/somratpro"
+icon = "fab fa-youtube"
+link = "https://www.youtube.com/channel/UCiUCVyqS-3iFsNuT0vCBYeg/videos"
 
 [[params.social]]
 icon = "fab fa-github"
-link = "https://github.com/somratpro"
+link = "https://github.com/siranishkd"
 
 [[params.social]]
 icon = "fab fa-linkedin"
-link = "https://www.linkedin.com/in/somratpro"
+link = "https://www.linkedin.com/in/anishkishor/"
 
 
 ################################### English language #####################################
@@ -135,68 +135,20 @@ url = "portfolio"
 weight = 4
 
 [[Languages.en.menu.main]]
+name = "Projects"
+url = "projects"
+weight = 5
+
+[[Languages.en.menu.main]]
 name = "Testimonial"
 pre = "#"
 url = "testimonial"
-weight = 5
+weight = 6
 
 [[Languages.en.menu.main]]
 name = "Contact"
 pre = "#"
 url = "contact"
-weight = 6
-
-[[Languages.en.menu.main]]
-name = "Blog"
-url = "blog"
 weight = 7
 
 
-################################### French language #####################################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-home = "Accueil"
-# copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
-
-
-################# english navigation ##################
-
-# main menu
-[[Languages.fr.menu.main]]
-name = "Home"
-url = "/"
-weight = 1
-
-[[Languages.fr.menu.main]]
-name = "About me"
-pre = "#"
-url = "about"
-weight = 2
-
-[[Languages.fr.menu.main]]
-name = "Service"
-pre = "#"
-url = "service"
-weight = 3
-
-[[Languages.fr.menu.main]]
-name = "Portfolio"
-pre = "#"
-url = "portfolio"
-weight = 4
-
-[[Languages.fr.menu.main]]
-name = "Testimonial"
-pre = "#"
-url = "testimonial"
-weight = 5
-
-[[Languages.fr.menu.main]]
-name = "Contact"
-pre = "#"
-url = "contact"
-weight = 6
