@@ -123,9 +123,9 @@ url = "about"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "Service"
+name = "Tools"
 pre = "#"
-url = "service"
+url = "tools"
 weight = 3
 
 [[Languages.en.menu.main]]
@@ -140,9 +140,9 @@ url = "projects"
 weight = 5
 
 [[Languages.en.menu.main]]
-name = "Testimonial"
+name = "Testimonials"
 pre = "#"
-url = "testimonial"
+url = "testimonials"
 weight = 6
 
 [[Languages.en.menu.main]]
