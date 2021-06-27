@@ -117,7 +117,7 @@ weight = 2
 [[Languages.en.menu.main]]
 name = "Tools"
 pre = "#"
-url = "tools"
+url = "service"
 weight = 3
 
 [[Languages.en.menu.main]]
