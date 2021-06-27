@@ -32,7 +32,7 @@ experience:
       company : "SMU Office of Advancement<br>"
       duration : "Jun 2020-Nov 2020"
       content : "Raised over $250,000 for SMU Bursary Fund by supporting the team in areas of planning, organising and project management. Liaised with alumni and corporations to maintain relationships. <br> Conducted exploratory data analysis (EDA) using R programming to identify ideal variables leading to higher funds raised. Communicated these findings using informative visualisations."
-      
+
     - name : "Research Analyst Intern"
       company : "Centre for Research on Successful Ageing <br>"
       duration : "May 2019-Aug 2019"
@@ -66,4 +66,18 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-It's Somrat, Professional Web Developer. I love to write code, it's my passoin. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me........😊
+```python
+print("Hello World!)
+Hello World!
+```
+
+Hi, I'm Anish. An aspiring data analyst and data scientist. I enjoy dealing with data, numbers and trends but even more than that, I enjoy helping businesses understand how to best utilise this wealth of information.<br><br> I strongly believe that my various work and leadership experiences have given me a strong set of soft and hard skillsets.
+
+ I would love to connect with you!
+Platform
+---|---
+ Email:| anishkd97@gmail.com <br>
+ LinkedIn:| https://www.linkedin.com/in/anishkishor/ <br>
+ Tableau:| https://public.tableau.com/profile/anish.dobariyapatel <br>
+ Github:| https://github.com/siranishkd
+ Youtube:| https://bit.ly/3zuZJez
