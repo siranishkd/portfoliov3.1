@@ -1,5 +1,5 @@
 ---
-title : "I'm Anish Kishor Dobariyapatel."
+title : "I'm Anish Dobariyapatel."
 # full screen navigation
 first_name : "Anish"
 last_name : "Dobariyapatel"

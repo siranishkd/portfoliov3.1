@@ -1,5 +1,5 @@
 ---
-title : "Tools Used"
+title : "Tools"
 service_list:
 # service item loop
 - name : "HTML"

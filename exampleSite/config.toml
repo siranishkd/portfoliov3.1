@@ -115,7 +115,7 @@ url = "about"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "Tools Used"
+name = "Tools"
 pre = "#"
 url = "tools"
 weight = 3
