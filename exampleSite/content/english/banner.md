@@ -1,14 +1,14 @@
 ---
-title : "I'm Somrat Sorkar"
+title : "I'm Anish Kishor Dobariyapatel."
 # full screen navigation
-first_name : "MacGyver"
-last_name : "SOMRAT"
-bg_image : "images/backgrounds/full-nav-bg.jpg"
+first_name : "Anish"
+last_name : "Dobariyapatel"
+bg_image : "images/backgrounds/Anish Photoshoot.jpg"
 # animated text loop
 occupations:
-- "Web Developer"
-- "Graphic Designer"
-- "Database Manager"
+- "Student"
+- "Data Analyst"
+- "Incoming e-Commerce Specialist"
 
 # slider background image loop
 slider_images:
