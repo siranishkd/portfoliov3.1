@@ -1,28 +1,28 @@
 ---
-title : "Tools"
+title : "Tools Used"
 service_list:
 # service item loop
-- name : "Web Development"
+- name : "HTML"
   image : "images/icons/web-development.png"
-  
+
 # service item loop
-- name : "Graphic Design"
+- name : "Tableau"
   image : "images/icons/graphic-design.png"
-  
+
 # service item loop
-- name : "Database Management"
+- name : "SQL"
   image : "images/icons/dbms.png"
-  
+
 # service item loop
-- name : "Software Development"
+- name : "R & Python Programming"
   image : "images/icons/software-development.png"
-  
+
 # service item loop
-- name : "Digital Marketing"
+- name : "Statistics"
   image : "images/icons/marketing.png"
-  
+
 # service item loop
-- name : "Mobile App Development"
+- name : "Microsoft Office <br> & Google Suite"
   image : "images/icons/mobile-app.png"
 
 
