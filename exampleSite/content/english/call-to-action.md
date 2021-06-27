@@ -1,10 +1,10 @@
 ---
-title : "NEED A SERVICE?"
+title : "WANT TO CONNECT?"
 bg_image : "images/backgrounds/Night Sky.jpg"
 button:
   enable : true
   label : "SAY HELLO!"
-  link : "contact"
+  link : "about"
 
 
 # custom style
