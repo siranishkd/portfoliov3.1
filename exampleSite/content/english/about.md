@@ -18,6 +18,11 @@ experience:
       duration : "2016-2018"
       content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerches etc."
       
+    - name : "eCommerce Analytics Specialist Intern (Incoming)"
+      company : "Unilever<br>"
+      duration : "Jul 2021-Dec 2021"
+      content : "<br><br>"
+      
     # experience item loop
     - name : "Graphic Designer"
       company : "Fiverr.com"
