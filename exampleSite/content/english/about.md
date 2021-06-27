@@ -13,11 +13,6 @@ experience:
   title : "EXPERIENCE"
   experience_list:
     # experience item loop
-    - name : "Web Developer"
-      company : "Fiverr.com"
-      duration : "2016-2018"
-      content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerches etc."
-      
     - name : "eCommerce Analytics Specialist Intern (Incoming)"
       company : "Unilever<br>"
       duration : "Jul 2021-Dec 2021"
@@ -32,6 +27,11 @@ experience:
       company : "Novelship<br>"
       duration : "Feb 2021-May 2021"
       content : "Worked at an active eCommerce startup as the key data analyst collaborating cross-functionally across various teams - Product, Finance, Marketing and Business Development. Used Tableau and SQL to build and maintain automated dashboards for the company. Performed cohort analysis and analysed user behaviour and patterns to generate insights."
+      
+    - name : "Intern (Project Management)"
+      company : "SMU Office of Advancement<br>"
+      duration : "Jun 2020-Nov 2020"
+      content : "Raised over $250,000 for SMU Bursary Fund by supporting the team in areas of planning, organising and project management. Liaised with alumni and corporations to maintain relationships. <br> Conducted exploratory data analysis (EDA) using R programming to identify ideal variables leading to higher funds raised. Communicated these findings using informative visualisations."
 
 ############################### Skill #################################
 skill:
