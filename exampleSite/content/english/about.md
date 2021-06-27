@@ -73,11 +73,12 @@ Hello World!
 
 Hi, I'm Anish. An aspiring data analyst and data scientist. I enjoy dealing with data, numbers and trends but even more than that, I enjoy helping businesses understand how to best utilise this wealth of information.<br><br> I strongly believe that my various work and leadership experiences have given me a strong set of soft and hard skillsets.
 
- I would love to connect with you!
+I would love to connect with you!
+
 Platform
 ---|---
- Email:| anishkd97@gmail.com <br>
- LinkedIn:| https://www.linkedin.com/in/anishkishor/ <br>
- Tableau:| https://public.tableau.com/profile/anish.dobariyapatel <br>
- Github:| https://github.com/siranishkd
- Youtube:| https://bit.ly/3zuZJez
+Email:| anishkd97@gmail.com <br>
+LinkedIn:| https://www.linkedin.com/in/anishkishor/ <br>
+Tableau:| https://public.tableau.com/profile/anish.dobariyapatel <br>
+Github:| https://github.com/siranishkd
+Youtube:| https://bit.ly/3zuZJez
