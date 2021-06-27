@@ -20,7 +20,7 @@ slider_images:
 button:
   enable : true
   label : "About Me"
-  link : "#about"
+  link : "/#about"
 
 
 # custom style
