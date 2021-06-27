@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://examplesite.com"
-title = "Somrat | Hugo Portfolio Template"
+title = "Anish | Portfolio Website"
 theme = "somrat"
 # post pagination
 paginate = "7"
@@ -77,14 +77,6 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
   
 ############################# social site ########################
 [[params.social]]
-icon = "fab fa-facebook-f"
-link = "https://www.facebook.com/somratpro"
-
-[[params.social]]
-icon = "fab fa-twitter"
-link = "https://twitter.com/somratpro"
-
-[[params.social]]
 icon = "fab fa-youtube"
 link = "https://www.youtube.com/channel/UCiUCVyqS-3iFsNuT0vCBYeg/videos"
 
@@ -142,7 +134,7 @@ weight = 5
 [[Languages.en.menu.main]]
 name = "Testimonials"
 pre = "#"
-url = "testimonials"
+url = "testimonial"
 weight = 6
 
 [[Languages.en.menu.main]]
