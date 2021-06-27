@@ -1,6 +1,6 @@
 ---
 title: "Portfolio"
-description: "This is meta description."
+description: "Click on project titles to find out more"
 draft: false
 
 
@@ -9,3 +9,5 @@ custom_class: ""
 custom_attributes: "" 
 custom_css: ""
 ---
+
+Testing essay here

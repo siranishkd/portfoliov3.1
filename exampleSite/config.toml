@@ -62,7 +62,7 @@ link = "plugins/owl-carousel/owl.carousel.min.js"
 
 #################### default parameters ################################
 [params]
-favicon = "images/icons/icon2.png"
+favicon = "images/favicon.png"
 logo_light = "images/logo-light.png"
 logo_dark = "images/logo-light.png"
 logo_width = "150px"
@@ -97,7 +97,7 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Copyright &copy; 2021 a hugo theme by [somrat](https://somrat.netlify.com)"
+copyright = "Copyright &copy; 2021 by Anish Dobariyapatel
 
 
 ################# english navigation ##################
