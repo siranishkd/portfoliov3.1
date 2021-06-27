@@ -2,25 +2,24 @@
 title: ""
 bg_image: "images/backgrounds/funfact-bg.jpg"
 funfacts:
-# funfacts item loop
-- name : "HANDS TO WORK"
+- name : "INTERNSHIP EXPERIENCE"
   image : "images/icons/works.png"
-  count : "100"
-  
+  count : "5"
+
 # funfacts item loop
-- name : "HAPPY CLIENT"
+- name : "GPA out of 4"
   image : "images/icons/happy.png"
-  count : "200"
-  
+  count : "3.65"
+
 # funfacts item loop
-- name : "FINISHED PROJECT"
+- name : "FINISHED PROJECTS"
   image : "images/icons/project.png"
-  count : "250"
-  
+  count : "5"
+
 # funfacts item loop
 - name : "CUPS OF COFFEE"
   image : "images/icons/coffee.png"
-  count : "150"
+  count : "60"
 
 
 # custom style
