@@ -20,7 +20,7 @@ slider_images:
 button:
   enable : true
   label : "HIRE ME"
-  link : "#contact"
+  link : "#about"
 
 
 # custom style
