@@ -27,11 +27,16 @@ experience:
       company : "Novelship<br>"
       duration : "Feb 2021-May 2021"
       content : "Worked at an active eCommerce startup as the key data analyst collaborating cross-functionally across various teams - Product, Finance, Marketing and Business Development. Used Tableau and SQL to build and maintain automated dashboards for the company. Performed cohort analysis and analysed user behaviour and patterns to generate insights."
-      
+
     - name : "Intern (Project Management)"
       company : "SMU Office of Advancement<br>"
       duration : "Jun 2020-Nov 2020"
       content : "Raised over $250,000 for SMU Bursary Fund by supporting the team in areas of planning, organising and project management. Liaised with alumni and corporations to maintain relationships. <br> Conducted exploratory data analysis (EDA) using R programming to identify ideal variables leading to higher funds raised. Communicated these findings using informative visualisations."
+      
+    - name : "Research Analyst Intern"
+      company : "Centre for Research on Successful Ageing <br>"
+      duration : "May 2019-Aug 2019"
+      content : "Analysed demographic and socioeconomic data of inter-generational transfer of financial resources in Singapore, using Stata 15. Consolidated summary stats and visualisations for effective communication. Conducted preliminary policy research in the sphere of ageing in Singapore by searching for and reading peer-reviewed economics papers and preparing summarised review."      
 
 ############################### Skill #################################
 skill:
