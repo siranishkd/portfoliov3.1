@@ -44,20 +44,24 @@ skill:
   title : "SKILL"
   skill_list:
     # skill item loop
-    - name : "Web Development"
-      percentage : "98%"
-      
-    # skill item loop
-    - name : "Graphic Design"
-      percentage : "85%"
-      
-    # skill item loop
+    - name : "Big Data Analytics"
+      percentage : "80%"
     - name : "Database Management"
-      percentage : "90%"
-      
+      percentage : "80%"
+    - name : "Data Visualisations"
+      percentage : "100%"
     # skill item loop
-    - name : "Wordpress"
+      name : "HTML"
+      percentage : "50%"
+    - name : "Machine Learning"
       percentage : "70%"
+    - name : "Python"
+      percentage : "70%"
+    # skill item loop
+    - name : "R programming"
+      percentage : "90%"
+    - name : "Tableau"
+      percentage : "100%"
 
 
 # custom style

@@ -62,7 +62,7 @@ link = "plugins/owl-carousel/owl.carousel.min.js"
 
 #################### default parameters ################################
 [params]
-favicon = "images/favicon.png"
+favicon = "images/favicon2.png"
 logo_light = "images/logo-light.png"
 logo_dark = "images/logo-light.png"
 logo_width = "150px"
@@ -76,14 +76,6 @@ enable = true
 preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
   
 ############################# social site ########################
-[[params.social]]
-icon = "fab fa-facebook-f"
-link = "https://www.facebook.com/somratpro"
-
-[[params.social]]
-icon = "fab fa-twitter"
-link = "https://twitter.com/somratpro"
-
 [[params.social]]
 icon = "fab fa-youtube"
 link = "https://www.youtube.com/channel/UCiUCVyqS-3iFsNuT0vCBYeg/videos"
@@ -105,7 +97,7 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
+copyright = "Copyright &copy; 2021 a Hugo Theme edited by Anish 
 
 
 ################# english navigation ##################
