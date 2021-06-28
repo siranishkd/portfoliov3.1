@@ -19,7 +19,7 @@ project_info:
 #   icon: "fas fa-redo"
 #   content: "This is in a loop"
 ---
-### Analysing IMDb Movies Ratings
+## Analysing IMDb Movies Ratings
 
 #### Description / Problem Statement
 
