@@ -7,7 +7,7 @@ description: "This is meta description."
 draft: false
 ---
 
-Work in Progress
+Work in Progress - Using Mixpanel to identify a user's journey through a website/app. Find key drop-off points and suggest potential solutions. 
 
 
 #### Heading

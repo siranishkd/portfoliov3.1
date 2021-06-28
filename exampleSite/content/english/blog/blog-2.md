@@ -7,7 +7,7 @@ description: "This is meta description."
 draft: false
 ---
 
-Work in Progress
+Work in Progress - Using SQL and Tableau to perform cohort analysis to identify the most valuable users. 
 
 
 #### Heading
