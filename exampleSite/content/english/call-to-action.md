@@ -1,6 +1,6 @@
 ---
 title : "WANT TO CONNECT?"
-bg_image : "images/backgrounds/Night Sky.jpg"
+bg_image : "images/backgrounds/bg1.jpg"
 button:
   enable : true
   label : "SAY HELLO!"
