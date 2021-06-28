@@ -1,6 +1,6 @@
 ---
 title : "KNOW MORE <br> ABOUT ME"
-image : "images/backgrounds/portrait.png"
+image : "images/backgrounds/portrait.jpg"
 # button
 button:
   enable : true
