@@ -1,48 +1,47 @@
 ---
-title: "Project Title"
-date: 2020-05-12T12:14:34+06:00
-image: "images/portfolio/item1.jpg"
-categories: ["design","visualisation"]
+title: "Analysing IMDb Movies Ratings"
+date: 2021-01-12T12:14:34+06:00
+image: "images/portfolio/item1.1.jpg"
+categories: ["Statistics","Data Visualisation", "Data Analytics"]
 description: "This is meta description."
 draft: false
 project_info:
-- name: "Client"
+- name: "Data Analytics & Visualisation for Communication Management"
   icon: "fas fa-user"
   content: "John Doe"
 - name: "Project Link"
   icon: "fas fa-link"
-  content: "https://examplesite.com/"
-- name: "New Item"
+  content: "https://movieanalytics.netlify.app/"
+- name: "Project API"
   icon: "fas fa-globe"
-  content: "Add whatever you want"
-- name: "Loop Item"
-  icon: "fas fa-redo"
-  content: "This is in a loop"
+  content: "https://bit.ly/35V6xo4"
+# - name: "Loop Item"
+#   icon: "fas fa-redo"
+#   content: "This is in a loop"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+#### Description / Problem Statement
+
+In recent years, there has been a rush towards creating more digital content to capture user attention. Streaming services like Netflix, Disney+ and AppleTV are creating their own content that could rival existing film production companies. With more digital content and content producers, competition between film companies for viewership are heating up. Hence, it is becoming increasingly urgent and important to understand the factors that result in successful movies.
+
+To understand the factors that result in successful movies, we analyse IMDB’s official dataset (IMDb, n.d.), given that the company does not permit any form of web scraping on its site. The dataset contained over 100,000 movies since 1900 and provides a variety of information such as ratings, number of votes, genre, duration and publishing year.
+
+Based on research, it was only in the late 1980s, where the modern trends of movies having a higher proportion of foreign box office than domestic ticket sales occur (Hall & Neale, 2010), suggesting that more international audiences viewed the movie than in the country of production. Hence, to provide an analysis of movies that will more likely suit global audiences, we will restrict the analysis to only movies produced from 1990 to 2019.
 
 
-#### Project Details
+#### Project Aim
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+1. Examine if genre, duration of movie and year of release will affect the success (ratings) of the movies from 1990 to 2019.
+
+2. Create a model to measure the effect of genre on the ratings of movies.
+
+3. If point 2 is true, check if there is any effect of movie duration on genre and ratings.
 
 
-#### Project Requirements
+#### Project Skills 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+- R programming (R Markdown, R Shiny)
+
+- Exploratory Data Analysis
+
+- Data Visualisations 

@@ -18,7 +18,7 @@ service_list:
   image : "images/icons/software-development.png"
 
 # service item loop
-- name : "Statistics"
+- name : "Machine Learning"
   image : "images/icons/marketing.png"
 
 # service item loop

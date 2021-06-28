@@ -9,3 +9,4 @@ custom_class: ""
 custom_attributes: "" 
 custom_css: ""
 ---
+Click on the project titles to find out more. 
