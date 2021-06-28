@@ -80,7 +80,7 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 ############################# social site ########################
 [[params.social]]
 icon = "fab fa-youtube"
-link = "https://www.youtube.com/channel/UCiUCVyqS-3iFsNuT0vCBYeg/videos"
+link = "https://bit.ly/3zuZJez"
 
 [[params.social]]
 icon = "fab fa-github"

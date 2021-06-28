@@ -867,7 +867,7 @@ input:checked+label span:last-child {
 }
 
 .about-me-text p {
-  color: #6f6f6f;
+  color: #131313;
   font-size: 16px;
 }
 
@@ -884,7 +884,7 @@ input:checked+label span:last-child {
 .download-cv:hover,
 .download-cv:focus {
   text-decoration: none;
-  color: #05156b;
+  color: #046804;
 }
 
 .about-me-images img {
