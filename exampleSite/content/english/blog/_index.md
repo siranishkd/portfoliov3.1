@@ -1,6 +1,6 @@
 ---
-title: "Oh My Blog!"
-description: "This is meta description."
+title: "Blog!"
+description: "[Work In Progress]."
 draft: false
 
 
