@@ -1,5 +1,5 @@
 ---
-title: "Blog!"
+title: "Blog"
 description: "[Work In Progress]."
 draft: false
 
