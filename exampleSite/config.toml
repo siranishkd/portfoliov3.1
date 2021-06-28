@@ -129,7 +129,7 @@ weight = 4
 [[Languages.en.menu.main]]
 name = "Testimonials"
 pre = "#"
-url = "testimonials"
+url = "testimonial"
 weight = 5
 
 [[Languages.en.menu.main]]
