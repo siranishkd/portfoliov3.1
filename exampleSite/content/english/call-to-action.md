@@ -4,7 +4,7 @@ bg_image : "images/backgrounds/Night Sky.jpg"
 button:
   enable : true
   label : "SAY HELLO!"
-  link : "#6"
+  link : "https://admiring-colden-1c9562.netlify.app/#contact"
 
 
 # custom style
@@ -13,5 +13,5 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-My contact details can be found in the 'About Me' section at the top.
+
 
