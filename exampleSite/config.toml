@@ -61,11 +61,13 @@ link = "plugins/owl-carousel/owl.carousel.min.js"
 
 
 #################### default parameters ################################
+
 [params]
-favicon = "images/logo-light.png"
+favicon = "images/favicon.png"
 logo_light = "images/logo-light.png"
 logo_dark = "images/logo-light.png"
 logo_width = "150px"
+
 # Meta data
 description = "Portfolio Website"
 author = "Anish Dobariyapatel"
