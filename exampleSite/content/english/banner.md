@@ -20,7 +20,7 @@ slider_images:
 button:
   enable : true
   label : "About Me"
-  link : "about"
+  link : "https://admiring-colden-1c9562.netlify.app/#about"
 
 
 # custom style
