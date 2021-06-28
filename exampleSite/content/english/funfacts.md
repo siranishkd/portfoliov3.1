@@ -12,12 +12,12 @@ funfacts:
   count : "6"
 
 # funfacts item loop
-- name : "CUPS OF COFFEE"
+- name : "+ CUPS OF COFFEE"
   image : "images/icons/coffee.png"
-  count : "100+"
+  count : "100"
 
 # funfacts item loop
-- name : "YEARS OF REAL WORLD EXPERIENCE"
+- name : "+ YEARS OF REAL WORLD EXPERIENCE"
   image : "images/icons/happy.png"
   count : "23"
 
