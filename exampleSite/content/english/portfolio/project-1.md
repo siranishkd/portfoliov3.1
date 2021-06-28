@@ -1,5 +1,5 @@
 ---
-title: "Analysing IMDb Movies Ratings"
+title: "Project 01"
 date: 2021-01-12T12:14:34+06:00
 image: "images/portfolio/item1.1.jpg"
 categories: ["Statistics","Data Visualisation", "Data Analytics", "R-programming"]
@@ -19,6 +19,7 @@ project_info:
 #   icon: "fas fa-redo"
 #   content: "This is in a loop"
 ---
+### Analysing IMDb Movies Ratings
 
 #### Description / Problem Statement
 
