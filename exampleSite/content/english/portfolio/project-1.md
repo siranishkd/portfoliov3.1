@@ -6,9 +6,9 @@ categories: ["Statistics","Data Visualisation", "Data Analytics"]
 description: "This is meta description."
 draft: false
 project_info:
-- name: "Data Analytics & Visualisation for Communication Management"
+- name: "Author(s)"
   icon: "fas fa-user"
-  content: "John Doe"
+  content: "Anish, Bang, Jim, Joel, Yi Rui"
 - name: "Project Link"
   icon: "fas fa-link"
   content: "https://movieanalytics.netlify.app/"
