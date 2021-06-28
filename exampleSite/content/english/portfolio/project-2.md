@@ -1,23 +1,20 @@
 ---
-title: "Project Title"
-date: 2020-05-12T12:14:34+06:00
-image: "images/portfolio/item2.jpg"
-categories: ["design","visualisation"]
+title: "Streaming Services Visualisation & Analytics "
+date: 2021-04-12T12:14:34+06:00
+image: "images/portfolio/item1.1.jpg"
+categories: ["Statistics","Data Visualisation", "Data Analytics"]
 description: "This is meta description."
 draft: false
 project_info:
-- name: "Client"
+- name: "Author(s)"
   icon: "fas fa-user"
-  content: "John Doe"
+  content: "Anish"
 - name: "Project Link"
   icon: "fas fa-link"
-  content: "https://examplesite.com/"
-- name: "New Item"
+  content: "https://rpubs.com/anishkd/streamingserviceviz"
+- name: "Note"
   icon: "fas fa-globe"
-  content: "Add whatever you want"
-- name: "Loop Item"
-  icon: "fas fa-redo"
-  content: "This is in a loop"
+  content: "This link may take some time to load."
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
