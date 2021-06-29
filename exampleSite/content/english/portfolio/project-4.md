@@ -14,7 +14,7 @@ project_info:
   content: "https://rpubs.com/anishkd/OAinternproject"
 - name: "Note"
   icon: "fas fa-globe"
-  content: "This project has been edited from the original to remove any key data. This is also one of the first few projects in my data journey. Gathering the data, cleaning, wrangling and learning more about R was initially a time-consuming process. "
+  content: "This project has been edited from the original to remove any key data. This is also one of the first few projects in my data journey. Gathering the data, cleaning, wrangling and learning more about R was initially a time-consuming process."
 ---
 
 # Alumni Donations - Identifying cohorts that are key donors 
