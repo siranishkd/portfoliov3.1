@@ -4,7 +4,7 @@ image : "images/backgrounds/About-3.png"
 # button
 button:
   enable : true
-  label : "DOWNLOAD MY RESUME"
+  label : "VIEW MY RESUME"
   link : "https://drive.google.com/file/d/1cECIqCQeXbM4RDe8kQkiHwXe4BWUFzYp/view?usp=sharing"
 
 ########################### Experience ##############################
