@@ -1,7 +1,7 @@
 ---
 title: "Project 04"
 date: 2020-10-12T12:14:34+06:00
-image: "images/portfolio/item1.2.jpg"
+image: "images/portfolio/item1.4.jpg"
 categories: ["Data Visualisation", "R-Programming"]
 description: "This is meta description."
 draft: false
