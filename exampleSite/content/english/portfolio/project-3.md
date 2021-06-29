@@ -1,6 +1,6 @@
 ---
 title: "Project 03"
-date: 2020-05-12T12:14:34+06:00
+date: 2021-01-12T12:14:34+06:00
 image: "images/portfolio/item1.3.jpg"
 categories: ["Visualisation", "Data Story-Telling", "R-programming"]
 description: "This is meta description."
@@ -14,7 +14,7 @@ project_info:
   content: "https://rpubs.com/anishkd/imdb_data_storytelling"
 - name: "Note"
   icon: "fas fa-globe"
-  content: "This is part 1 of the IMDB project - exploratory in its analysis. Part 2, titled 'Analysing IMDb Movies Ratings' is a data science focused group project that includes an R Shiny App."
+  content: "This is part 1 of the IMDB project - exploratory in its analysis. Part 2, titled ('Analysing IMDb Movies Ratings')[https://movieanalytics.netlify.app/] is a data science focused group project that includes an R [Shiny App](https://bit.ly/35V6xo4)."
 ---
 
 # IMDB Exploratory Data Analysis 
