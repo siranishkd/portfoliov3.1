@@ -1,5 +1,5 @@
 ---
-title: "Project 01"
+title: "Project 06"
 date: 2021-05-12T12:14:34+06:00
 image: "images/portfolio/item1.1.jpg"
 categories: ["Statistics","Visualisation", "Data Analytics", "R"]
