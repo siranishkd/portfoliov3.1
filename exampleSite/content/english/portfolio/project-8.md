@@ -11,7 +11,7 @@ project_info:
   content: "Anish"
 - name: "Post Link"
   icon: "fas fa-link"
-  content: [Link](https://www.linkedin.com/feed/update/urn:li:activity:6642033879513432064/) 
+  content: "[Link](https://www.linkedin.com/feed/update/urn:li:activity:6642033879513432064/)"
 - name: "Note"
   icon: "fas fa-globe"
   content: "This was one of the earliest visualisations I created. More of them can be found on my youtube channel. The data was cleaned and wrangled using Excel daily during the Feb 2020 to May 2020 period."
