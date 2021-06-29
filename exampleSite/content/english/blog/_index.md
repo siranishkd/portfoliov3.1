@@ -1,7 +1,7 @@
 ---
 title: "Blog"
 description: "[Work In Progress]."
-draft: false
+draft: true
 
 
 # custom style

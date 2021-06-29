@@ -5,7 +5,7 @@ image : "images/backgrounds/About-3.png"
 button:
   enable : true
   label : "VIEW MY RESUME"
-  link : "https://drive.google.com/file/d/1cECIqCQeXbM4RDe8kQkiHwXe4BWUFzYp/view?usp=sharing"
+  link : "https://drive.google.com/file/d/1eqCC1ZwvbDWOUgrtoCoPId_Aqrllwu2h/view?usp=sharing"
 
 ########################### Experience ##############################
 experience:
