@@ -1,44 +1,48 @@
 ---
 title: "Project 05"
 date: 2021-03-12T12:14:34+06:00
-image: "images/portfolio/item1.2.jpg"
-categories: ["Visualisation", "Data Story-Telling", "Tableau"]
+image: "images/portfolio/Climate Change Project.gif"
+categories: ["Visualisation", "Data Story-Telling", "Tableau", "R-programming"]
 description: "This is meta description."
 draft: false
 project_info:
 - name: "Author(s)"
   icon: "fas fa-user"
-  content: "Anish"
+  content: "Anish, Kin Meng, Oorja, Swedha, Wei Xuan"
 - name: "Project Link"
   icon: "fas fa-link"
-  content: "https://rpubs.com/anishkd/streamingserviceviz"
+  content: "https://tabsoft.co/3w4fLcb"
 - name: "Note"
   icon: "fas fa-globe"
-  content: "This link may take some time to load."
+  content: "This is a group project which is the largest component of the module titled 'Visual Analytics for Business Intelligence' where we received an A grade." 
 ---
 
 # Climate Change
 
 #### Description / Problem Statement
 
-As an avid Netflix user, this project provides an avenue to combine my interests in data visualisation and my favorite hobby of watching shows to analyse and gain useful data insights.
+Climate Change is a long term change in the average weather patterns that have come to define Earth's local, regional and global climates. These changes have a broad range of observed effects and impacts. 
 
-Streaming services like Netflix, Amazon Prime and Hulu are creating their own content that could rival existing film production companies. Netflix currently still owns the crown as being the leading content provider in this sector though others like Disney+ and Hulu are quickly catching up.
+Changes observed since the early 20th century are primarily driven by human activities, particulary fossil fuel burning, which increases heat-trapping greenhouse gas levels in Earth's atmosphere, raising Earth's average surface temperature. 
+
+Natural processes also contribute to climate change, including internal variability (eg: Cyclyic ocean patterns) and external forcings (Volcanic Activity). 
 
 #### Project Aim
 
-1. Overview and EDA of Netflix, Hulu and Amazon Prime Movies
-2. Deep Dive into Netflix content database
-Overall this visualisation story is exploratory in nature to find some meaningful insights. 
+1. Cover the full extent of Climate Change, the causes, impacts, solutions and recommendations. 
+
+2. Deep Dive into the largest contributors of climate change (Food Industry) and provide feasible solutions.
+
+3. Perform predictive analytics using Tableau for future temperature increases with and without action taken. 
 
 #### Key Skills
 
-1. Visualisation
-- Barcharts/Violin charts
-- Tree Map
-- Pie Chart
-- Boxplot
-- Heat Map
-- Word Cloud
-2. Exploratory Data Analysis
-3. Data Wrangling and Cleaning
+- Tableau Visualisation
+
+- Exploratory Data Analysis
+
+- Data Wrangling and Cleaning
+
+- Research and Teamwork 
+
+- Tableau Analytics 

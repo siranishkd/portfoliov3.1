@@ -29,6 +29,8 @@ Its main aim was to gain insights in a data-driven manner to better meet the obj
 
 #### Key Skills
 
-1. Visualisation
-2. Exploratory Data Analysis
-3. Data Wrangling and Cleaning
+- Visualisation
+
+- Exploratory Data Analysis
+
+- Data Wrangling and Cleaning
