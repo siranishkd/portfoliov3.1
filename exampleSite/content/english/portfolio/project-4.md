@@ -1,8 +1,8 @@
 ---
 title: "Project 04"
-date: 2021-03-12T12:14:34+06:00
+date: 2020-10-12T12:14:34+06:00
 image: "images/portfolio/item1.2.jpg"
-categories: ["Data Visualisation", "Data Story-Telling", "Tableau"]
+categories: ["Data Visualisation", "R-Programming"]
 description: "This is meta description."
 draft: false
 project_info:
@@ -11,34 +11,24 @@ project_info:
   content: "Anish"
 - name: "Project Link"
   icon: "fas fa-link"
-  content: "https://rpubs.com/anishkd/streamingserviceviz"
+  content: "https://rpubs.com/anishkd/OAinternproject"
 - name: "Note"
   icon: "fas fa-globe"
-  content: "This link may take some time to load."
+  content: "This project has been edited from the original to remove any key data. This is also one of the first few projects in my data journey. Gathering the data, cleaning, wrangling and learning more about R was initially a time-consuming process. "
 ---
 
-# Climate Change
+# Alumni Donations - Identifying cohorts that are key donors 
 
 #### Description / Problem Statement
 
-As an avid Netflix user, this project provides an avenue to combine my interests in data visualisation and my favorite hobby of watching shows to analyse and gain useful data insights.
-
-Streaming services like Netflix, Amazon Prime and Hulu are creating their own content that could rival existing film production companies. Netflix currently still owns the crown as being the leading content provider in this sector though others like Disney+ and Hulu are quickly catching up.
+This R markdown document contains Alumni donation data from 2016 to 2020.  It includes exploratory data analysis that leads to deeper findings that are showcased through visualisations. All data cleaning, wrangling, analysing and visualising is done on R studio.
 
 #### Project Aim
 
-1. Overview and EDA of Netflix, Hulu and Amazon Prime Movies
-2. Deep Dive into Netflix content database
-Overall this visualisation story is exploratory in nature to find some meaningful insights. 
+Its main aim was to gain insights in a data-driven manner to better meet the objectives of the advancement office. This helps to build a foundation of data analytics in the field of donations. 
 
 #### Key Skills
 
 1. Visualisation
-- Barcharts/Violin charts
-- Tree Map
-- Pie Chart
-- Boxplot
-- Heat Map
-- Word Cloud
 2. Exploratory Data Analysis
 3. Data Wrangling and Cleaning

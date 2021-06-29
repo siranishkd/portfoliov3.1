@@ -1,7 +1,7 @@
 ---
 title: "Project 03"
 date: 2020-05-12T12:14:34+06:00
-image: "images/portfolio/item1.2.jpg"
+image: "images/portfolio/item1.3.jpg"
 categories: ["Data Visualisation", "Data Analytics", "R-programming"]
 description: "This is meta description."
 draft: false
@@ -11,31 +11,29 @@ project_info:
   content: "Anish"
 - name: "Project Link"
   icon: "fas fa-link"
-  content: "https://rpubs.com/anishkd/streamingserviceviz"
+  content: "https://rpubs.com/anishkd/imdb_data_storytelling"
 - name: "Note"
   icon: "fas fa-globe"
-  content: "This link may take some time to load."
+  content: "This is part 1 of the IMDB project - exploratory in its analysis. Part 2, titled "Analysing IMDb Movies Ratings" is a data science focused group project that includes an R Shiny App."
 ---
 
-# Streaming Services Visualisation & Analytics 
+# IMDB Data Story Telling 
 
 #### Description / Problem Statement
 
-As an avid Netflix user, this project provides an avenue to combine my interests in data visualisation and my favorite hobby of watching shows to analyse and gain useful data insights.
+As a huge movie enthusiast, this project provides an avenue to combine my interests in data visualisation and movies to analyse and gain useful data insights.
 
-Streaming services like Netflix, Amazon Prime and Hulu are creating their own content that could rival existing film production companies. Netflix currently still owns the crown as being the leading content provider in this sector though others like Disney+ and Hulu are quickly catching up.
+In recent years, there has been a rush towards creating more digital content to capture user attention. Streaming services like Netflix, Disney+ and AppleTV are creating their own content that could rival existing film production companies. With more digital content and content producers, competition between film companies for viewership are heating up. Hence it would be interesting to identify factors that result in a successful movie.
 
 #### Project Aim
 
-1. Overview and EDA of Netflix, Hulu and Amazon Prime Movies
-2. Deep Dive into Netflix content database
-Overall this visualisation story is exploratory in nature to find some meaningful insights. 
+1. Overview and EDA of IMDb movies.
+2. Identifying what factors lead to a successful movie.
 
 #### Key Skills
 
 1. Visualisation
-- Barcharts/Violin charts
-- Tree Map
+- Barcharts
 - Pie Chart
 - Boxplot
 - Heat Map
