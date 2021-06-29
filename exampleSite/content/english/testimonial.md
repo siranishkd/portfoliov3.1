@@ -5,7 +5,7 @@ testimonial_slider:
 - name : "Jeffrey Chen"
   image : "images/backgrounds/novelship-logo.jpeg"
   designation : "Lead Product Manager, Novelship"
-  content : "As an intern working at a startup, Anish was unafraid of challenges and demonstrated a strong ownership mindset and willingness to problem solve. Team leads all had glowing reviews of his communication ability and cross department stakeholder management skills. "
+  content : "As an intern working at a startup, Anish was unafraid of challenges and demonstrated a strong ownership mindset and willingness to problem solve. Team leads all had glowing reviews of his communication ability and cross department stakeholder management skills."
 
 # slider item loop
 - name : "Sam Wu"
