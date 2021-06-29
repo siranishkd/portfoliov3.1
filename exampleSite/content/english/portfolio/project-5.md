@@ -1,5 +1,5 @@
 ---
-title: "Project 04"
+title: "Climate Change Analytics"
 date: 2021-04-08T12:14:34+06:00
 image: "images/portfolio/Climate Change Project.gif"
 categories: ["Visualisation", "Tableau", "R"]
@@ -16,8 +16,6 @@ project_info:
   icon: "fas fa-globe"
   content: "This is a group project which is the largest component of the module titled 'Visual Analytics for Business Intelligence' where we received an A grade." 
 ---
-
-# Climate Change
 
 #### Description / Problem Statement
 

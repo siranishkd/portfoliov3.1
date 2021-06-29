@@ -1,5 +1,5 @@
 ---
-title: "Project 01"
+title: "Alumni Donations - Identifying cohorts that are key donors "
 date: 2020-10-12T12:14:34+06:00
 image: "images/portfolio/item1.4.jpg"
 categories: ["Visualisation", "R"]
@@ -16,8 +16,6 @@ project_info:
   icon: "fas fa-globe"
   content: "This project has been edited from the original to remove any key data. This is also one of the first few projects in my data journey. Gathering the data, cleaning, wrangling and learning more about R was initially a time-consuming process."
 ---
-
-# Alumni Donations - Identifying cohorts that are key donors 
 
 #### Description / Problem Statement
 

@@ -1,5 +1,5 @@
 ---
-title: "Project 03"
+title: "Global Covid-19 Dashboard"
 date: 2021-03-02T12:14:34+06:00
 image: "images/portfolio/item1.6.jpg"
 categories: ["Visualisation", "Dashboard", "Tableau", "Python"]
@@ -17,7 +17,6 @@ project_info:
   content: "Dashboard last updated in March 2021"
 
 ---
-# GLOBAL COVID-19 Dashboard
 
 #### Description
 The COVID-19 Dashboard aims to track the spread of this infectious disease around the world. The main tool used here is Tableau together with python was data wrangling. 
