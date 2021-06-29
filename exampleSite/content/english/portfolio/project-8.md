@@ -9,18 +9,12 @@ project_info:
 - name: "Author"
   icon: "fas fa-user"
   content: "Anish"
-- name: "Project Link"
+- name: "Post Link"
   icon: "fas fa-link"
-  content: "https://www.linkedin.com/feed/update/urn:li:activity:6642033879513432064/"
-- name: "Similar Covid-19 Visualisations"
-  icon: "fas fa-link"
-  content: "https://bit.ly/3zuZJez"
-- name: "Visualisation posted on "
-  icon: "fas fa-link"
-  content: "https://bit.ly/3zuZJez"
+  content: [Link](https://www.linkedin.com/feed/update/urn:li:activity:6642033879513432064/) 
 - name: "Note"
   icon: "fas fa-globe"
-  content: "This was one of the earliest visualisation I created using Flourish. The data was cleaned and wrangled using Excel daily during the Feb 2020 to May 2020 period."
+  content: "This was one of the earliest visualisations I created. More of them can be found on my youtube channel. The data was cleaned and wrangled using Excel daily during the Feb 2020 to May 2020 period."
 
 ---
 
@@ -29,7 +23,7 @@ Back in Feb 2020, Covid-19 was an incoming threat that very few countries took s
 
 This bar chart race portrays this data in an interesting manner. It shows signs that on hindsight should have made governments take better and faster action in battling this virus. 
 
-You can find more updated bar chart races on my [youtube account](https://bit.ly/3zuZJez)
+You can find more updated bar chart races on my [youtube account](https://bit.ly/3zuZJez).
 
 ### Additional Information
 
