@@ -11,7 +11,7 @@ project_info:
   content: "Anish"
 - name: "Project Link"
   icon: "fas fa-link"
-  content: "https://rpubs.com/anishkd/OAinternproject"
+  content: "[Link](https://rpubs.com/anishkd/OAinternproject)"
 - name: "Note"
   icon: "fas fa-globe"
   content: "This project has been edited from the original to remove any key data. This is also one of the first few projects in my data journey. Gathering the data, cleaning, wrangling and learning more about R was initially a time-consuming process."

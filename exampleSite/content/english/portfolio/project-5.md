@@ -11,7 +11,7 @@ project_info:
   content: "Anish, Kin Meng, Oorja, Swedha, Wei Xuan"
 - name: "Project Link"
   icon: "fas fa-link"
-  content: "https://tabsoft.co/3w4fLcb"
+  content: "[Link](https://tabsoft.co/3w4fLcb)"
 - name: "Note"
   icon: "fas fa-globe"
   content: "This is a group project which is the largest component of the module titled 'Visual Analytics for Business Intelligence' where we received an A grade." 

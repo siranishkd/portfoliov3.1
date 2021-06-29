@@ -11,7 +11,7 @@ project_info:
   content: "Anish"
 - name: "Project Link"
   icon: "fas fa-link"
-  content: "https://rpubs.com/anishkd/imdb_data_storytelling"
+  content: "[Link](https://rpubs.com/anishkd/imdb_data_storytelling)"
 - name: "Note"
   icon: "fas fa-globe"
   content: "This is part 1 of the IMDB project - exploratory in its analysis. Part 2, titled ('Analysing IMDb Movies Ratings')[https://movieanalytics.netlify.app/] is a data science focused group project that includes an R [Shiny App](https://bit.ly/35V6xo4)."

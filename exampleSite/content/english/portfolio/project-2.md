@@ -11,7 +11,7 @@ project_info:
   content: "Anish"
 - name: "Project Link"
   icon: "fas fa-link"
-  content: "https://rpubs.com/anishkd/streamingserviceviz"
+  content: "[Link](https://rpubs.com/anishkd/streamingserviceviz)"
 - name: "Note"
   icon: "fas fa-globe"
   content: "This link may take some time to load."

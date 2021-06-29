@@ -11,7 +11,7 @@ project_info:
   content: "Anish"
 - name: "Project Link"
   icon: "fas fa-link"
-  content: "https://tabsoft.co/3x45UEP"
+  content: "[Link](https://tabsoft.co/3x45UEP)"
 - name: "Note"
   icon: "fas fa-globe"
   content: "Dashboard last updated in March 2021"
