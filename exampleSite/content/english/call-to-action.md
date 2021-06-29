@@ -13,5 +13,5 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-Drop me an email via the form below and I will get back to you within a day! 
+Drop me an email via the form below and I will get back to you within 1 day! 
 
