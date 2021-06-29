@@ -1,7 +1,7 @@
 ---
 title: "The Spread of Covid-19"
 date: 2021-02-02T12:14:34+06:00
-image: "images/portfolio/item1.7.gif"
+image: "images/portfolio/item1.8.gif"
 categories: ["Visualisation"]
 description: "This is meta description."
 draft: false
