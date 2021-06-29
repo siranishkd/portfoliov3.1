@@ -11,7 +11,7 @@ project_info:
   content: "Anish"
 - name: "Project Link"
   icon: "fas fa-link"
-  content: "https://www.linkedin.com/feed/update/urn:li:activity:6761925938650456064/"
+  content: "[Link](https://www.linkedin.com/feed/update/urn:li:activity:6761925938650456064/)"
 - name: "Note"
   icon: "fas fa-globe"
   content: "The code can be used to compare any stocks. In the future, an R Shiny API will be created to allow users to pick and choose their stocks."
