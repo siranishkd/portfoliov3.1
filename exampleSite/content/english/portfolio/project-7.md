@@ -1,5 +1,5 @@
 ---
-title: "Project 07"
+title: "Financial Hot Stocks Tracker"
 date: 2021-02-02T12:14:34+06:00
 image: "images/portfolio/item1.7.gif"
 categories: ["Visualisation", "R"]
@@ -17,7 +17,6 @@ project_info:
   content: "The code can be used to compare any stocks. In the future, an R Shiny API will be created to allow users to pick and choose their stocks."
 
 ---
-# Financial Hot Stocks Tracker
 
 #### Description
 Back in Jan 2021,  most people were familiar with the stock market news with regards to highly shorted stocks such as GME and AMC. Alongside these stocks, TSLA and cryptocurrency such as BITCOIN and ETHEREUM saw a surge in price as well. 

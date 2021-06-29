@@ -1,5 +1,5 @@
 ---
-title: "Project 05"
+title: "Streaming Services Visualisation & Analytics"
 date: 2021-05-01T12:14:34+06:00
 image: "images/portfolio/item1.2.jpg"
 categories: ["Visualisation", "Data Analytics", "R"]
@@ -16,7 +16,6 @@ project_info:
   icon: "fas fa-globe"
   content: "This link may take some time to load."
 ---
-# Streaming Services Visualisation & Analytics 
 
 #### Description / Problem Statement
 

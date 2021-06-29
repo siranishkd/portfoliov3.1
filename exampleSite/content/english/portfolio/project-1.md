@@ -1,5 +1,5 @@
 ---
-title: "Project 06"
+title: "What factors lead to a successful movie?"
 date: 2021-05-12T12:14:34+06:00
 image: "images/portfolio/item1.1.jpg"
 categories: ["Statistics","Visualisation", "Data Analytics", "R"]
@@ -19,7 +19,6 @@ project_info:
 #   icon: "fas fa-redo"
 #   content: "This is in a loop"
 ---
-# Analysing IMDb Movies Ratings
 
 #### Description / Problem Statement
 
