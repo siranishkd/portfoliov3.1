@@ -1,8 +1,8 @@
 ---
-title: "Project 05"
-date: 2021-03-12T12:14:34+06:00
+title: "Project 04"
+date: 2021-04-08T12:14:34+06:00
 image: "images/portfolio/Climate Change Project.gif"
-categories: ["Visualisation", "Data Story-Telling", "Tableau", "R-programming"]
+categories: ["Visualisation", "Tableau", "R"]
 description: "This is meta description."
 draft: false
 project_info:

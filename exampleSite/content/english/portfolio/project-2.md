@@ -1,8 +1,8 @@
 ---
 title: "Project 02"
-date: 2021-03-12T12:14:34+06:00
+date: 2021-05-01T12:14:34+06:00
 image: "images/portfolio/item1.2.jpg"
-categories: ["Visualisation", "Data Analytics", "R-programming"]
+categories: ["Visualisation", "Data Analytics", "R"]
 description: "This is meta description."
 draft: false
 project_info:
