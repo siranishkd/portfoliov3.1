@@ -1,35 +1,32 @@
 ---
-title: "This Is A Simple Blog Post"
-date: 2020-05-12T12:14:34+06:00
-image: "images/portfolio/item5.jpg"
-tags: ["design","sketch"]
+title: "Streaming Services Visualisation & Analytics"
+date: 2021-05-01T12:14:34+06:00
+image: "images/portfolio/item1.2.jpg"
+tags: ["Visualisation", "Data Analytics", "R"]
 description: "This is meta description."
-draft: true
+draft: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+#### Description / Problem Statement
 
+As an avid Netflix user, this project provides an avenue to combine my interests in data visualisation and my favorite hobby of watching shows to analyse and gain useful data insights.
 
-#### Heading Ulala!
+Streaming services like Netflix, Amazon Prime and Hulu are creating their own content that could rival existing film production companies. Netflix currently still owns the crown as being the leading content provider in this sector though others like Disney+ and Hulu are quickly catching up.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+#### Project Aim
 
+1. Overview and EDA of Netflix, Hulu and Amazon Prime Movies
+2. Deep Dive into Netflix content database
+Overall this visualisation story is exploratory in nature to find some meaningful insights. 
 
-#### One More Heading
+#### Key Skills
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+1. Visualisation
+- Barcharts/Violin charts
+- Tree Map
+- Pie Chart
+- Boxplot
+- Heat Map
+- Word Cloud
+2. Exploratory Data Analysis
+3. Data Wrangling and Cleaning
