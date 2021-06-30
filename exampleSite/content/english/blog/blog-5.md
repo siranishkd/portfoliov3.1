@@ -7,8 +7,6 @@ description: "This is meta description."
 draft: false
 ---
 
-#### Description / Problem Statement
-
 As an avid Netflix user, this project provides an avenue to combine my interests in data visualisation and my favorite hobby of watching shows to analyse and gain useful data insights.
 
 Streaming services like Netflix, Amazon Prime and Hulu are creating their own content that could rival existing film production companies. Netflix currently still owns the crown as being the leading content provider in this sector though others like Disney+ and Hulu are quickly catching up.

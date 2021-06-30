@@ -17,8 +17,6 @@ project_info:
   content: "[Link](https://bit.ly/35V6xo4)"
 ---
 
-#### Description / Problem Statement
-
 In recent years, there has been a rush towards creating more digital content to capture user attention. Streaming services like Netflix, Disney+ and AppleTV are creating their own content that could rival existing film production companies. With more digital content and content producers, competition between film companies for viewership are heating up. Hence, it is becoming increasingly urgent and important to understand the factors that result in successful movies.
 
 To understand the factors that result in successful movies, we analyse IMDB’s official dataset (IMDb, n.d.), given that the company does not permit any form of web scraping on its site. The dataset contained over 100,000 movies since 1900 and provides a variety of information such as ratings, number of votes, genre, duration and publishing year.
