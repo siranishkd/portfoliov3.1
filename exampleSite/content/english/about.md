@@ -13,7 +13,7 @@ experience:
   title : "EXPERIENCE"
   experience_list:
     # experience item loop
-    - name : "eCommerce Analytics Specialist Intern (Incoming)"
+    - name : "eCommerce Analytics Specialist Intern"
       company : "Unilever<br>"
       duration : "Jul 2021-Dec 2021"
       content : "<br><br>"
