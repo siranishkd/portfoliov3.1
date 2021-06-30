@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://examplesite.com"
-title = "Anish | Portfolio Website"
+title = "Anish | Portfolio"
 theme = "somrat"
 # post pagination
 paginate = "7"

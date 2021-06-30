@@ -82,8 +82,8 @@ I would love to connect with you!
 Platform
 ---|---
 Email:| anishkd97@gmail.com <br>
-LinkedIn:| [Link](https://www.linkedin.com/in/anishkishor/) <br>
-Tableau:| [Link](https://public.tableau.com/profile/anish.dobariyapatel) <br>
-Github:| [Link](https://github.com/siranishkd)
-Youtube:| [Link](https://bit.ly/3zuZJez)
+LinkedIn:| [https://www.linkedin.com/in/anishkishor/](https://www.linkedin.com/in/anishkishor/) <br>
+Tableau:| [https://public.tableau.com/profile/anish.dobariyapatel](https://public.tableau.com/profile/anish.dobariyapatel) <br>
+Github:| [https://github.com/siranishkd](https://github.com/siranishkd)
+Youtube:| [https://bit.ly/3zuZJez](https://bit.ly/3zuZJez)
 
