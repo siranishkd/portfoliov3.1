@@ -80,17 +80,10 @@ Hi, I'm Anish. An aspiring data analyst and data scientist. I enjoy dealing with
 I would love to connect with you!
 
 Platform
-[Email](anishkd97@gmail.com) <br>
-[LinkedIn](https://www.linkedin.com/in/anishkishor/) <br>
-[Tableau](https://public.tableau.com/profile/anish.dobariyapatel) <br>
-[Github](https://github.com/siranishkd) <br>
-[Youtube](https://bit.ly/3zuZJez) <br>
-
-Platform
 ---|---
 Email:| anishkd97@gmail.com <br>
 LinkedIn:| [Link](https://www.linkedin.com/in/anishkishor/) <br>
 Tableau:| [Link](https://public.tableau.com/profile/anish.dobariyapatel) <br>
-Github:| https://github.com/siranishkd
-Youtube:| https://bit.ly/3zuZJez
+Github:| [Link](https://github.com/siranishkd)
+Youtube:| [Link](https://bit.ly/3zuZJez)
 
