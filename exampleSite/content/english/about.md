@@ -89,8 +89,8 @@ Platform
 Platform
 ---|---
 Email:| anishkd97@gmail.com <br>
-LinkedIn:| https://www.linkedin.com/in/anishkishor/ <br>
-Tableau:| https://public.tableau.com/profile/anish.dobariyapatel <br>
+LinkedIn:| [Link](https://www.linkedin.com/in/anishkishor/) <br>
+Tableau:| [Link](https://public.tableau.com/profile/anish.dobariyapatel) <br>
 Github:| https://github.com/siranishkd
 Youtube:| https://bit.ly/3zuZJez
 
