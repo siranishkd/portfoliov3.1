@@ -20,7 +20,7 @@ slider_images:
 button:
   enable : true
   label : "About Me"
-  link : "https://confident-almeida-4fdcba.netlify.app/#about"
+  link : "https://anish-dobariyapatel.netlify.app/#about"
 
 
 # custom style

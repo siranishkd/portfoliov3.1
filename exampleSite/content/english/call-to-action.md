@@ -4,7 +4,7 @@ bg_image : "images/backgrounds/bg1.jpg"
 button:
   enable : true
   label : "SAY HELLO!"
-  link : "https://confident-almeida-4fdcba.netlify.app/#contact"
+  link : "https://anish-dobariyapatel.netlify.app/#contact"
 
 
 # custom style
