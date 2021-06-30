@@ -9,7 +9,7 @@ testimonial_slider:
 
 # slider item loop
 - name : "Sam Wu"
-  image : "images/backgrounds/SMU logo.png"
+  image : "images/backgrounds/SMU.jpg"
   designation : "Senior Assistant Director, Alumni Giving"
   content : "Summer 2020: Anish is someone who will go very far in life, especially when he applies himself to whatever role he is in or job that he is doing. He was an absolute joy to work with, and in my professional opinion I can quite honestly say that he ranks as one of the very best interns I have ever had the privilege of mentoring/overseeing."
 
