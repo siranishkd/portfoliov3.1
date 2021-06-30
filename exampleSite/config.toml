@@ -69,7 +69,7 @@ logo_dark = "images/logo-light.png"
 logo_width = "150px"
 
 # Meta data
-description = ""
+description = "   "
 author = "Anish Dobariyapatel"
 
 # Preloader
