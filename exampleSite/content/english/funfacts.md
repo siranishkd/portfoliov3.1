@@ -4,7 +4,7 @@ bg_image: "images/backgrounds/funfact-bg.jpg"
 funfacts:
 - name : "COMPLETED INTERNSHIPS"
   image : "images/icons/works.png"
-  count : "4"
+  count : "6"
 
 # funfacts item loop
 - name : "FINISHED PROJECTS"
@@ -19,7 +19,7 @@ funfacts:
 # funfacts item loop
 - name : "+ YEARS OF REAL WORLD EXPERIENCE"
   image : "images/icons/happy.png"
-  count : "23"
+  count : "24"
 
 
 # custom style
