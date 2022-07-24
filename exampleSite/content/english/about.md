@@ -13,11 +13,6 @@ experience:
   title : "EXPERIENCE"
   experience_list:
     # experience item loop
-     - name : "Business Analyst Intern"
-      company : "Accenture<br>"
-      duration : "May 2022-Aug 2022"
-      content : "First proper experience with the agile methodology in developing the product required for the project. Formulated user stories and also tested these stories. Assisted in coding in HTML and React to update copywriting changes in the app."
-      
     - name : "eCommerce Analytics Specialist Intern"
       company : "Unilever<br>"
       duration : "Jul 2021-Dec 2021"
