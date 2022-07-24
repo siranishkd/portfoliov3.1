@@ -12,7 +12,13 @@ experience:
   enable : true
   title : "EXPERIENCE"
   experience_list:
-    # experience item loop      
+    # experience item loop    
+    
+    - name : "Business Analyst Intern"
+      company : "Accenture <br>"
+      duration : "May 2022-Aug 2022"
+      content : " "      
+    
     - name : "eCommerce Analytics Specialist Intern"
       company : "Unilever<br>"
       duration : "Jul 2021-Dec 2021"
@@ -32,11 +38,6 @@ experience:
       company : "SMU Office of Advancement<br>"
       duration : "Jun 2020-Nov 2020"
       content : "Raised over $250,000 for SMU Bursary Fund by supporting the team in areas of planning, organising and project management. Liaised with alumni and corporations to maintain relationships. <br> Conducted exploratory data analysis (EDA) using R programming to identify ideal variables leading to higher funds raised. Communicated these findings using informative visualisations."
-
-    - name : "Research Analyst Intern"
-      company : "Centre for Research on Successful Ageing <br>"
-      duration : "May 2019-Aug 2019"
-      content : "Analysed demographic and socioeconomic data of inter-generational transfer of financial resources in Singapore, using Stata 15. Consolidated summary stats and visualisations for effective communication. Conducted preliminary policy research in the sphere of ageing in Singapore by searching for and reading peer-reviewed economics papers and preparing summarised review."      
 
 ############################### Skill #################################
 skill:
