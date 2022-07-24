@@ -8,7 +8,8 @@ bg_image : "images/backgrounds/Anish Photoshoot.jpg"
 occupations:
 - "Student"
 - "Data Analyst"
-- "Incoming e-Commerce Specialist"
+- "e-Commerce Specialist"
+- "guy who keeps trying"
 
 # slider background image loop
 slider_images:
