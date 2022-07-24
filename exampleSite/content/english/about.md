@@ -13,11 +13,16 @@ experience:
   title : "EXPERIENCE"
   experience_list:
     # experience item loop
-    - name : "eCommerce Analytics Specialist Intern"
+    - name : "Business Analyst Intern"
+      company : "Accenture<br>"
+      duration : "May 2022-Aug 2022"
+      content : "Reported and analysed monthly Shopee & Lazada eCommerce data to track sales and marketing progress. Also planned and executed a successful marketing campaign to grow subscriber base through physical sampling and other digital marketing avenues. Overall a fruitful internship in the FMCG space."
+     
+     - name : "eCommerce Analytics Specialist Intern"
       company : "Unilever<br>"
       duration : "Jul 2021-Dec 2021"
       content : "Reported and analysed monthly Shopee & Lazada eCommerce data to track sales and marketing progress. Also planned and executed a successful marketing campaign to grow subscriber base through physical sampling and other digital marketing avenues. Overall a fruitful internship in the FMCG space."
-      
+     
     - name : "Data Analyst Intern (Corporate Real Estate Strategy)"
       company : "Development Bank of Singapore (DBS)<br>"
       duration : "May 2021-Jul 2021"
