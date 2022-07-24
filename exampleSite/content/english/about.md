@@ -12,12 +12,12 @@ experience:
   enable : true
   title : "EXPERIENCE"
   experience_list:
-    # experience item loop   
-     - name : "eCommerce Analytics Specialist Intern"
+    # experience item loop      
+    - name : "eCommerce Analytics Specialist Intern"
       company : "Unilever<br>"
       duration : "Jul 2021-Dec 2021"
       content : "Reported and analysed monthly Shopee & Lazada eCommerce data to track sales and marketing progress. Also planned and executed a successful marketing campaign to grow subscriber base through physical sampling and other digital marketing avenues. Overall a fruitful internship in the FMCG space."
-     
+      
     - name : "Data Analyst Intern (Corporate Real Estate Strategy)"
       company : "Development Bank of Singapore (DBS)<br>"
       duration : "May 2021-Jul 2021"
@@ -69,21 +69,15 @@ custom_class: ""
 custom_attributes: "" 
 custom_css: ""
 ---
-
-```python
 print("Hello World!)
 Hello World!
-```
+Hi, I'm Anish. An aspiring data analyst and data scientist. I enjoy dealing with data, numbers and trends but even more than that, I enjoy helping businesses understand how to best utilise this wealth of information.
 
-Hi, I'm Anish. An aspiring data analyst and data scientist. I enjoy dealing with data, numbers and trends but even more than that, I enjoy helping businesses understand how to best utilise this wealth of information.<br><br> I strongly believe that my various work and leadership experiences have given me a strong set of soft and hard skillsets.
+I strongly believe that my various work and leadership experiences have given me a strong set of soft and hard skillsets.
 
 I would love to connect with you!
 
-Platform
----|---
-Email:| anishkd97@gmail.com <br>
-LinkedIn:| [https://www.linkedin.com/in/anishkishor/](https://www.linkedin.com/in/anishkishor/) <br>
-Tableau:| [https://public.tableau.com/profile/anish.dobariyapatel](https://public.tableau.com/profile/anish.dobariyapatel) <br>
-Github:| [https://github.com/siranishkd](https://github.com/siranishkd)
-Youtube:| [https://bit.ly/3zuZJez](https://bit.ly/3zuZJez)
-
+Platform ---|--- Email:| anishkd97@gmail.com
+LinkedIn:| https://www.linkedin.com/in/anishkishor/
+Tableau:| https://public.tableau.com/profile/anish.dobariyapatel
+Github:| https://github.com/siranishkd Youtube:| https://bit.ly/3zuZJez
