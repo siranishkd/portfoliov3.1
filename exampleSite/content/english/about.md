@@ -79,6 +79,7 @@ I strongly believe that my various work and leadership experiences have given me
 I would love to connect with you!
 
 Platform ---|--- 
+
 Email:| anishkd97@gmail.com 
 
 LinkedIn:| https://www.linkedin.com/in/anishkishor/ 
@@ -86,5 +87,4 @@ LinkedIn:| https://www.linkedin.com/in/anishkishor/
 Tableau:| https://public.tableau.com/profile/anish.dobariyapatel 
 
 Github:| https://github.com/siranishkd  
-
 Youtube:| https://bit.ly/3zuZJez 
