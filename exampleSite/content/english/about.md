@@ -80,7 +80,10 @@ I would love to connect with you!
 
 Email: anishkd97@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/anishkishor/ 
+LinkedIn: https://www.linkedin.com/in/anishkishor/
+
 Tableau: https://public.tableau.com/profile/anish.dobariyapatel 
+
 Github: https://github.com/siranishkd  
+
 Youtube: https://bit.ly/3zuZJez 
